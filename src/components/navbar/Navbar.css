@@ -100,7 +100,7 @@
   }
   .gpt3__navbar-signs {
     display: flex;
-    justify-content: end;
+    justify-content: flex-end;
     flex-grow: 1;
   }
   .gpt3__navbar-menu_container-links p,
